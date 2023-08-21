@@ -1,3 +1,6 @@
+# Follow the article below
+https://www.codemag.com/article/2101061
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
